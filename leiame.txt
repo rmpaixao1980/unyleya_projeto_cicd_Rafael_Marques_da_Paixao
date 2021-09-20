@@ -1,0 +1,19 @@
+Vimos na Unidade 1 como utilizar as ferramentas de controle de versão e ferramentas que nos apoiam na adoção delas. Já nesta unidade trabalhamos com as ferramentas de CI/CD e estruturamos esteiras automatizadas.
+
+Diante de todo este cenário, iniciaremos a criação de uma esteira (pipeline) automatizada que será complementada e seu projeto finalizado na unidade 4.
+
+De acordo com a topologia apresentada abaixo, utilize o repositório GitHub https://github.com/osanam-giordane/azure-voting-app-redis, efetuando um fork para que possa trabalhar com a aplicação exemplo em seu GitHub.
+
+Você criará o projeto conforme topologia onde fará os seguintes passos:
+
+- Fork do repositório para sua conta GitHub;
+
+- Clone do repositório para seu PC;
+
+- Criação de um repositório chamado unyleya_projeto_cicd_name, troque “name” pelo seu nome;
+
+- Faça o commit do código local para este novo repositório criado no GituHub;
+
+- Crie um projeto no Azure DevOps chamado Unyleya_Projeto_DevOps e integre o repositório criado com o Azure Repos do projeto criado no Azure DevOps.
+
+Para evidência do projeto e avaliação, ao final, dê permissão para a conta Azure DevOps osanam.giordane@osanamgiordane.com.br para que os passos possam ser validados pelo professor.
